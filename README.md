@@ -2,19 +2,19 @@
 Identify historical market conditions most similar to today and estimate future pricing behavior.
 
 
-# Technologies
+## Technologies
 Python\
 Pandas\
 Scikit-Learn\
 Excel
 
-# Methodology
+## Methodology
 Normalize market variables\
 Calculate distance metrics\
 Identify nearest historical observations\
 Generate forecast distributions
 
-# Skills Demonstrated
+## Skills Demonstrated
 Machine learning\
 Pattern recognition\
 Feature engineering\
